@@ -1,9 +1,3 @@
-Absolutely — based on the **layoffs dataset** and your **SQL-based data cleaning workflow**, here’s a clean, professional, and *impressive* `README.md` you can drop straight into your GitHub repo.
-
-You can copy-paste everything below as `README.md`.
-
----
-
 # 📉 Global Tech Layoffs – Data Cleaning Project (SQL)
 
 ## 📌 Overview
